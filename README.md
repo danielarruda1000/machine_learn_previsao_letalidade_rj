@@ -1,3 +1,3 @@
-# Machine Learn: Modelo de previsão de taxa de letalidade violenta no estado do Rio de Janeiro
+### Modelo de previsão de taxa de letalidade violenta no estado do Rio de Janeiro
 
-O trabalho de conclusão de curso (Ciência da Computação) visa aplicar 3 modelos de aprendizado de máquina e comparar as metodologias e desempenho de cada um para prever a taxa de letalidade violenta no estado do Rio de Janeiro por 100 mil habitantes. Os modelos aplicados para esse trabalho, são eles: Arima, Prophet e Random Forest Regressor.
+Resumo: O trabalho visa aplicar 6 modelos estatísticos e comparar o desempenho de cada um para prever a taxa de letalidade violenta no estado do Rio de Janeiro por 100 mil habitantes. Os modelos aplicados para esse trabalho são:
